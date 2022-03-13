@@ -4,7 +4,7 @@
 
 This repo is where I practice projects related to data visualization. with the topics as below:
 
-**1. Employee Performance - Google Data Studio - employee.xlsx**
+1. **Employee Performance - Google Data Studio - employee.xlsx**
 https://datastudio.google.com/reporting/43fc8341-6321-48bd-b192-384d9e056fce
 
 Import data from employee.xlsx
@@ -24,7 +24,7 @@ Add charts:
 	- Line chart showing Billable Hours daily
 
 
-**2. Hotel Revenue (2019-2020) - Tableau - hotel_revenue.xlsx**
+2. **Hotel Revenue (2019-2020) - Tableau - hotel_revenue.xlsx**
 https://public.tableau.com/shared/BCQ38NBFS?:display_count=n&:origin=viz_share_link
 
 Import data from hotel_revenue.xlsx (5 sheets including 2018, 2019, 2019, market_segment, and meal_cost)
