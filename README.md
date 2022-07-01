@@ -46,3 +46,13 @@ https://public.tableau.com/shared/BCQ38NBFS?:display_count=n&:origin=viz_share_l
 	- Table showing Revenue by market segment 
 
 
+3. **IBM HR Analytics Employee Attrition & Performance**
+https://public.tableau.com/app/profile/nha.tran/viz/IBMHRAnalyticsEmployeeAttritionPerformance_16566458777160/Dashboard1?publish=yes
+   Import data from IBM_HR_Analytics.xlsx (kaggle dataset)
+  
+   Add chart for each Worksheet:
+
+	- Scorecard showing Total Employees
+	- Stacked bar chart showing Churners and non-churners in each JobRole for different Departments
+	- Pie chart showing Total churners and non-churners based on Business Travel
+	- Bar chart showing Attrition count for each Department and Age Distribution for Churners
