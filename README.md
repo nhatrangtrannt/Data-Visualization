@@ -4,7 +4,22 @@
 
 This repo is where I practice projects related to data visualization. with the topics as below:
 
-1. **Employee Performance - Google Data Studio - employee.xlsx**
+1. **Institutional Characteristics of Colleges, Universities, and Technical and Vocational Postsecondary Institutions in the United States (2013-2014)** - Team Project
+https://public.tableau.com/app/profile/tatiana.galdieri/viz/latestversiondraft__16813906621930/InstitutionalCharacteristicsofCollegesUniversitiesandTechnicalandVocationalPostsecondaryInstitutionsintheUnitedStates2013-2014?publish=yes
+   Import data from Integrated Postsecondary Education Data System (IPEDS) 
+	
+   Create a story
+  
+   Add chart for each Worksheet:
+   
+	- Geographic Distribution of Institutions by Institutional Sectors and Degree of Urbanization
+	- Master’s and Bachelor’s Degrees by Institutional Sector
+	- Financial Aid and Total Living Cost
+	- Tuition, Fee, Admission Rate
+	- Comparison of Graduate Rate
+	
+	
+2. **Employee Performance - Google Data Studio - employee.xlsx**
 https://datastudio.google.com/reporting/43fc8341-6321-48bd-b192-384d9e056fce
 
    Import data from employee.xlsx
@@ -22,9 +37,7 @@ https://datastudio.google.com/reporting/43fc8341-6321-48bd-b192-384d9e056fce
 	- Donut chart showing % Clients not seen for each employee
 	- Bar chart showing Billable Hours for each location
 	- Line chart showing Billable Hours daily
-
-
-2. **Hotel Revenue (2019-2020) - Tableau - hotel_revenue.xlsx**
+3. **Hotel Revenue (2019-2020) - Tableau - hotel_revenue.xlsx**
 https://public.tableau.com/shared/BCQ38NBFS?:display_count=n&:origin=viz_share_link
 
    Import data from hotel_revenue.xlsx (5 sheets including 2018, 2019, 2019, market_segment, and meal_cost)
@@ -46,7 +59,7 @@ https://public.tableau.com/shared/BCQ38NBFS?:display_count=n&:origin=viz_share_l
 	- Table showing Revenue by market segment 
 
 
-3. **IBM HR Analytics Employee Attrition & Performance**
+4. **IBM HR Analytics Employee Attrition & Performance**
 https://public.tableau.com/app/profile/nha.tran/viz/IBMHRAnalyticsEmployeeAttritionPerformance_16566458777160/Dashboard1?publish=yes
 
    Import data from IBM_HR_Analytics.xlsx (kaggle dataset)
