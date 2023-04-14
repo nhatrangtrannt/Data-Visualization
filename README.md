@@ -6,6 +6,7 @@ This repo is where I practice projects related to data visualization. with the t
 
 1. **Institutional Characteristics of Colleges, Universities, and Technical and Vocational Postsecondary Institutions in the United States (2013-2014)** - Team Project
 https://public.tableau.com/app/profile/tatiana.galdieri/viz/latestversiondraft__16813906621930/InstitutionalCharacteristicsofCollegesUniversitiesandTechnicalandVocationalPostsecondaryInstitutionsintheUnitedStates2013-2014?publish=yes
+   
    Import data from Integrated Postsecondary Education Data System (IPEDS) 
 	
    Create a story
